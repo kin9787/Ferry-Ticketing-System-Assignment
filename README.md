@@ -117,7 +117,7 @@ You just need [Python](https://www.python.org/). IDE is recommended such as [PyC
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This repo acts as a reference to those who want to build a simple discord bot using Python. 
+This repo acts as a reference to those who want to try to built something using Python. 
 
 _For more examples, please refer to the author by contact him_
 
