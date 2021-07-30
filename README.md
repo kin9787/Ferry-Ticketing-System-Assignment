@@ -68,10 +68,10 @@ School Assignment for Year 1 Sem1 2019.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-    <img src="images/CalmyExample.JPG" alt="Logo" width="650" height="450" >
+    <img src="images/FerryExample.JPG" alt="Logo" width="750" height="400" >
 </p>
 
-<!-- [![Product Screen Shot][product-screenshot]](https://github.com/kin9787/Calmy-Discord-Bot/blob/master/images/CalmyExample.JPG) -->
+<!-- [![Product Screen Shot][product-screenshot]](https://github.com/kin9787/Ferry-Ticketing-System-Assignment/blob/master/images/FerryExample.JPG) -->
 
 This project is a university assignment. A ferry ticketing system is built using Python. Text file as database.
 
@@ -162,7 +162,7 @@ Project Link: [https://github.com/kin9787/Ferry-Ticketing-System-Assignment](htt
 [license-url]: https://github.com/kin9787/Ferry-Ticketing-System-Assignment/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chen-chee-kin-2b6664157/
-<!-- [product-screenshot]: images/CalmyExample.JPG -->
+<!-- [product-screenshot]: images/FerryExample.JPG -->
 
 <!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
 
