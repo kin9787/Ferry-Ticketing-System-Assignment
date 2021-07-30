@@ -5,7 +5,7 @@
 *** Basically that's all I want to say. Good Luck and have fun. 
 -->
 
-# Ferry-Ticketing-System
+# Ferry Ticketing System
 School Assignment for Year 1 Sem1 2019.
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -19,11 +19,11 @@ School Assignment for Year 1 Sem1 2019.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/kin9787/Ferry Ticketing System Assignment">
+  <a href="https://github.com/kin9787/Ferry-Ticketing-System-Assignment">
     <img src="images/GitHubLogo.JPG" alt="Logo" width="150" height="200">
   </a>
   
-  <h3 align="center">Ferry-Ticketing-System</h3>
+  <h3 align="center">Ferry Ticketing System</h3>
 
   <p align="center">
     A ferry ticketing system with no GUI (Works only in console command)!
