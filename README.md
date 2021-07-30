@@ -19,7 +19,7 @@ School Assignment for Year 1 Sem1 2019.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/kin9787/Ferry-Ticketing-System-Assignment">
+  <a href="https://github.com/kin9787/Ferry Ticketing System Assignment">
     <img src="images/GitHubLogo.JPG" alt="Logo" width="150" height="200">
   </a>
   
