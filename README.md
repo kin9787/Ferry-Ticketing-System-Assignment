@@ -169,4 +169,4 @@ Project Link: [https://github.com/kin9787/Ferry-Ticketing-System-Assignment](htt
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 📓 If you cannot access/asked to login before reading further, access the link using incognito mode.
-Well it's a school project so the lecturers are to thank here.
+<br></br>Well it's a school project so the lecturers are to thank here.
