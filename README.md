@@ -146,7 +146,7 @@ Your Name - Chen Chee Kin
 
 Email - chencheekin1234@gmail.com
 
-Project Link: [https://github.com/kin9787/Calmy-Discord-Bot](https://github.com/kin9787/Ferry-Ticketing-System-Assignment)
+Project Link: [https://github.com/kin9787/Ferry-Ticketing-System-Assignment](https://github.com/kin9787/Ferry-Ticketing-System-Assignment)
 
 <!--------------------------------------------------------------------- THIS IS SEPERATION LINE-------------------------------------------------------------------->
 
