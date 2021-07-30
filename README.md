@@ -103,8 +103,6 @@ You just need [Python](https://www.python.org/). IDE is recommended such as [PyC
 
 ### Installation
 
-Since there are two version of the bot, it is recommend to use the latest which is the Rewrite Version.
-
 1. Clone the repo
    ```sh
    git clone https://github.com/kin9787/Ferry-Ticketing-System-Assignment.git
